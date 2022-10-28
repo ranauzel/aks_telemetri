@@ -1,1 +1,1 @@
-# aks_telemetri
+# araç kontrol sistemine gelen verilerin telemetriye gönderilmesini sağlayan ardunio kodları
